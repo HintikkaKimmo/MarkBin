@@ -1,3 +1,7 @@
+/**
+ * Created by Kimmo on 11.7.2016.
+ */
+
 import React from 'react';
 import ReactDOM from 'react-dom';
 

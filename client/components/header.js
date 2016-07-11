@@ -4,6 +4,8 @@
 
 import React, { Component } from 'react';
 
+import Accounts from './accounts';
+
 class Header extends Component {
     render() {
         return (
@@ -13,7 +15,7 @@ class Header extends Component {
                 </div>
                 <ul className="nav navbar-nav">
                     <li>
-                        <a>Sign up</a>
+                        <Accounts/>
                     </li>
                     <li>
                         <a>Create Bin</a>
