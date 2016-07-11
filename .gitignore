@@ -1,0 +1,24 @@
+# Created by .ignore support plugin (hsz.mobi)
+### Example user template template
+### Example user template
+
+# IntelliJ project files
+.idea
+*.iml
+out
+gen### Node template
+# Logs
+logs
+*.log
+npm-debug.log*
+
+# Dependency directories
+node_modules
+jspm_packages
+.DS_Store
+
+# Optional npm cache directory
+.npm
+
+# Typings installed for development
+/typings
