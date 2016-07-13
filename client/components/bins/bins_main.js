@@ -13,7 +13,7 @@ class BinsMain extends  Component {
         return (
             <div>
                 <BinsEditor bin={this.props.bin}/>
-                <Binsviewer bin={this.props.bin}/>
+                <BinsViewer bin={this.props.bin}/>
             </div>
         );
     }
