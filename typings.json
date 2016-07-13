@@ -2,8 +2,10 @@
   "name": "markbin",
   "dependencies": {},
   "globalDependencies": {
+    "bootstrap": "registry:dt/bootstrap#3.3.5+20160619023404",
     "meteor": "registry:dt/meteor#1.3.0+20160627161920",
     "react": "registry:dt/react#0.14.0+20160630100702",
+    "react-codemirror": "registry:dt/react-codemirror#0.2.6+20160619021621",
     "react-dom": "registry:dt/react-dom#0.14.0+20160412154040",
     "react-router": "registry:dt/react-router#2.0.0+20160621215300"
   }
